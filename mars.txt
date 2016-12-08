@@ -1,13 +1,2 @@
-commit a11a2dc86e1b9b583b4d9febfea17b2d06cc885f
-Author: Nicole Kingsley <nbkingsley@ucdavis.edu>
-Date:   Thu Dec 8 11:07:43 2016 -0800
-
-    the deal with the Wolfman on mars
-
-diff --git a/mars.txt b/mars.txt
-index 077071c..b9a15db 100644
---- a/mars.txt
-+++ b/mars.txt
-@@ -1 +1,2 @@
- Cold and dry, but everything is my favorite color.
-+The two moons may be a problem from Wolfman.
+Cold and dry, but everything is my favorite color.
+The two moons may be a problem from Wolfman.
